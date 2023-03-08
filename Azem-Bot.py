@@ -4,7 +4,7 @@ nest_asyncio.apply()
 import discord
 import Scraper
 import Random
-my_secret = "MTAxNDgyMjU3NjkyNjc2MTA3MQ.GObsFu.XBNQa99IM2y71MfQW2vGovt1d7NeNd_2h6jPWY"
+my_secret = ""
 
 intents = discord.Intents.default()
 intents.messages = True
