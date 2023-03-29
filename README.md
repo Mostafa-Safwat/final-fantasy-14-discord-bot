@@ -1,4 +1,4 @@
-# final-fantasy-14-discord-bot
+# Final Fantasy 14 Discord Bot
 This is a Discord bot that provides news from the Final Fantasy 14 website scraped using BeautifulSoup. The bot filters news by topic and can also randomly select a choice from user's input.
 ## Comands:
 `!hello` This command will make the bot reply with `Hello!`
